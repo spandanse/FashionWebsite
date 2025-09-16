@@ -45,7 +45,7 @@ By building this project, you will learn to:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/premier-fashion-website-clone.git
+git clone https://github.com/spandanse/premier-fashion-website-clone.git
 cd premier-fashion-website-clone
 ```
 
